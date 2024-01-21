@@ -1,0 +1,3 @@
+App_ID 536f9d8f-c79e-4826-af9b-89da55d8fe38
+Secret K7H8Q~a1w5YTLaPRrXxXdgHqoyYcshZ6Fz6oCdhD
+Tenant_ID b0c94f31-548d-41b1-9a78-d8df9d4c785b
